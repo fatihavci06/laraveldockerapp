@@ -31,5 +31,3 @@ services:
       - 8081:80
     depends_on:
       - db
-volumes:
-    data:
